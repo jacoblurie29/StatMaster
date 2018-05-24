@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="seasons_array">
+        <item id="select_a_message">Select a season</item>
+        <item id="season 1">Season 1</item>
+        <item id="season 2">Season 2</item>
+        <item id="season 3">Season 3</item>
+        <item id="season 4">Season 4</item>
+        <item id="season 5">Season 5</item>
+        <item id="season 6">Season 6</item>
+        <item id="season 7">Season 7</item>
+        <item id="season 8">Season 8</item>
+    </string-array>
+    <string-array name="primary_positions_array">
+        <item id = "initial">--- Primary Position ---</item>
+        <item id = "infielder">Infield</item>
+        <item id = "catcher">Catcher</item>
+        <item id = "first_base">First Base</item>
+        <item id = "second_base">Second Base</item>
+        <item id = "third_base">Third Base</item>
+        <item id = "shortstop">Shortstop</item>
+        <item id = "middle_infield">Middle Infield</item>
+        <item id = "corner_infield">Corner Infield</item>
+        <item id = "all_outfield">Outfield</item>
+        <item id = "left_field">Left Field</item>
+        <item id = "center_field">Center Field</item>
+        <item id = "right_field">Right Field</item>
+        <item id = "pitcher">Pitcher</item>
+        <item id = "starting_pitcher">Starting Pitcher</item>
+        <item id = "relief_pitcher">Relief Pitcher</item>
+        <item id = "closer">Closer</item>
+    </string-array>
+    <string-array name="secondary_positions_array">
+        <item id = "initial">--- Secondary Position ---</item>
+        <item id = "infielder">Infield</item>
+        <item id = "catcher">Catcher</item>
+        <item id = "first_base">First Base</item>
+        <item id = "second_base">Second Base</item>
+        <item id = "third_base">Third Base</item>
+        <item id = "shortstop">Shortstop</item>
+        <item id = "middle_infield">Middle Infield</item>
+        <item id = "corner_infield">Corner Infield</item>
+        <item id = "all_outfield">Outfield</item>
+        <item id = "left_field">Left Field</item>
+        <item id = "center_field">Center Field</item>
+        <item id = "right_field">Right Field</item>
+        <item id = "pitcher">Pitcher</item>
+        <item id = "starting_pitcher">Starting Pitcher</item>
+        <item id = "relief_pitcher">Relief Pitcher</item>
+        <item id = "closer">Closer</item>
+        <item id = "no_secondary">No Secondary Position</item>
+    </string-array>
+</resources>

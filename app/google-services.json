@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "369936805778",
+    "firebase_url": "https://stat-master.firebaseio.com",
+    "project_id": "stat-master",
+    "storage_bucket": "stat-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369936805778:android:412a5d0904226ddf",
+        "android_client_info": {
+          "package_name": "com.developer.jacob.statmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369936805778-vrg0mh8uid8rgrskoj3omk75pk2ft49s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk0sjZdMRx6Grs_phK6o2kD8aiJ9Fj99o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

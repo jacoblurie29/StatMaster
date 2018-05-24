@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Stat Master</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="register">Register</string>
+    <string name="sign_up">Sign In</string>
+    <string name="picture_of_a_baseball_base">Picture of a baseball base</string>
+    <string name="statmaster_ball">StatMaster Ball</string>
+    <string name="stat_nmaster">Stat Master</string>
+    <string name="main_subtitle">Main Subtitle</string>
+    <string name="textview">Your personal baseball statistics app.</string>
+    <string name="username_email">Username/Email</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="sign_in_button">Sign In Button</string>
+    <string name="home_sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="back"><![CDATA[< back]]></string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="let_s_get_nstarted">Let\'s Get Started.</string>
+    <string name="back_button_new_user"><![CDATA[< Back]]></string>
+    <string name="title_activity_user_home_screen">UserHomeScreen</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="userHomeScreen">StatMaster</string>
+    <string name="logout">Logout</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="seasons">Seasons</string>
+    <string name="null1">Null</string>
+    <string name="profile_setup">Profile Setup</string>
+    <string name="button">Button</string>
+    <string name="go">Go</string>
+    <string name="new_season">New Season</string>
+    <string name="new_game">New Game</string>
+    <string name="new_nseason">new season</string>
+    <string name="team_name">Team Name</string>
+    <string name="season">Season</string>
+    <string name="year">Year</string>
+    <string name="submit">submit</string>
+
+</resources>
